@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     public partial class frmInfoStaff : Form
     {

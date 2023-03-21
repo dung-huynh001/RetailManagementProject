@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     class DesignUtils
     {

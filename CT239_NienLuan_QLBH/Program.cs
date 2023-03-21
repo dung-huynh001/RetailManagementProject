@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     static class Program
     {

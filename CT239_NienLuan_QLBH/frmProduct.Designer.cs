@@ -1,5 +1,5 @@
 ﻿
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     partial class frmProduct
     {
@@ -104,7 +104,7 @@ namespace CT239_NienLuan_QLBH
             // 
             // msDelete
             // 
-            this.msDelete.Image = global::CT239_NienLuan_QLBH.Properties.Resources.delete;
+            this.msDelete.Image = global::RetailManagement.Properties.Resources.delete;
             this.msDelete.Margin = new System.Windows.Forms.Padding(10, 0, 0, 0);
             this.msDelete.Name = "msDelete";
             this.msDelete.Size = new System.Drawing.Size(55, 24);

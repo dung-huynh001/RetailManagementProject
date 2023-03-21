@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.IO;
 
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     public partial class frmInfoPersonal : Form
     {

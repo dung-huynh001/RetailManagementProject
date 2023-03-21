@@ -1,5 +1,5 @@
 ﻿
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     partial class frmTotalRevenue
     {

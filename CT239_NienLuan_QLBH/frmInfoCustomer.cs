@@ -3,7 +3,7 @@ using System.Data;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     public partial class frmInfoCustomer : Form
     {

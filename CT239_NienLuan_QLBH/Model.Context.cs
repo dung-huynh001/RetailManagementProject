@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     using System;
     using System.Data.Entity;

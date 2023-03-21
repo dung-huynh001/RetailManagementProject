@@ -1,5 +1,5 @@
 ﻿
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     partial class frmInfoCustomer
     {
@@ -106,7 +106,7 @@ namespace CT239_NienLuan_QLBH
             // 
             // xoaToolStripMenuItem
             // 
-            this.xoaToolStripMenuItem.Image = global::CT239_NienLuan_QLBH.Properties.Resources.delete;
+            this.xoaToolStripMenuItem.Image = global::RetailManagement.Properties.Resources.delete;
             this.xoaToolStripMenuItem.Name = "xoaToolStripMenuItem";
             this.xoaToolStripMenuItem.Size = new System.Drawing.Size(55, 23);
             this.xoaToolStripMenuItem.Text = "Xóa";

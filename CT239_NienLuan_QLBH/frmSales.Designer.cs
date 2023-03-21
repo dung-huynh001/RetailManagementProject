@@ -1,5 +1,5 @@
 ﻿
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     partial class frmSales
     {
@@ -300,7 +300,7 @@ namespace CT239_NienLuan_QLBH
             this.hệThốngToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.trangChủToolStripMenuItem,
             this.cấpTàiKhoảnToolStripMenuItem});
-            this.hệThốngToolStripMenuItem.Image = global::CT239_NienLuan_QLBH.Properties.Resources.home;
+            this.hệThốngToolStripMenuItem.Image = global::RetailManagement.Properties.Resources.home;
             this.hệThốngToolStripMenuItem.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.hệThốngToolStripMenuItem.Name = "hệThốngToolStripMenuItem";
             this.hệThốngToolStripMenuItem.Size = new System.Drawing.Size(87, 20);
@@ -322,7 +322,7 @@ namespace CT239_NienLuan_QLBH
             // 
             // doanhThuToolStripMenuItem
             // 
-            this.doanhThuToolStripMenuItem.Image = global::CT239_NienLuan_QLBH.Properties.Resources.save_money;
+            this.doanhThuToolStripMenuItem.Image = global::RetailManagement.Properties.Resources.save_money;
             this.doanhThuToolStripMenuItem.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.doanhThuToolStripMenuItem.Name = "doanhThuToolStripMenuItem";
             this.doanhThuToolStripMenuItem.Size = new System.Drawing.Size(127, 20);
@@ -335,7 +335,7 @@ namespace CT239_NienLuan_QLBH
             this.quảnLýHàngHóaToolStripMenuItem,
             this.nhânViênToolStripMenuItem,
             this.kháchHàngToolStripMenuItem});
-            this.quảnLýDanhMụcToolStripMenuItem.Image = global::CT239_NienLuan_QLBH.Properties.Resources.list_text;
+            this.quảnLýDanhMụcToolStripMenuItem.Image = global::RetailManagement.Properties.Resources.list_text;
             this.quảnLýDanhMụcToolStripMenuItem.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.quảnLýDanhMụcToolStripMenuItem.Name = "quảnLýDanhMụcToolStripMenuItem";
             this.quảnLýDanhMụcToolStripMenuItem.Size = new System.Drawing.Size(133, 20);
@@ -367,7 +367,7 @@ namespace CT239_NienLuan_QLBH
             this.thôngTinTàiKhoảnToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.thôngTinCáNhânToolStripMenuItem,
             this.đổiMậtKhẩuToolStripMenuItem});
-            this.thôngTinTàiKhoảnToolStripMenuItem.Image = global::CT239_NienLuan_QLBH.Properties.Resources.account;
+            this.thôngTinTàiKhoảnToolStripMenuItem.Image = global::RetailManagement.Properties.Resources.account;
             this.thôngTinTàiKhoảnToolStripMenuItem.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.thôngTinTàiKhoảnToolStripMenuItem.Name = "thôngTinTàiKhoảnToolStripMenuItem";
             this.thôngTinTàiKhoảnToolStripMenuItem.Size = new System.Drawing.Size(85, 20);
@@ -390,7 +390,7 @@ namespace CT239_NienLuan_QLBH
             // đăngXuấtToolStripMenuItem
             // 
             this.đăngXuấtToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
-            this.đăngXuấtToolStripMenuItem.Image = global::CT239_NienLuan_QLBH.Properties.Resources.logout;
+            this.đăngXuấtToolStripMenuItem.Image = global::RetailManagement.Properties.Resources.logout;
             this.đăngXuấtToolStripMenuItem.Margin = new System.Windows.Forms.Padding(130, 0, 0, 0);
             this.đăngXuấtToolStripMenuItem.Name = "đăngXuấtToolStripMenuItem";
             this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(89, 20);

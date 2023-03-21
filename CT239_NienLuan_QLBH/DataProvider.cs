@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     class DataProvider
     {

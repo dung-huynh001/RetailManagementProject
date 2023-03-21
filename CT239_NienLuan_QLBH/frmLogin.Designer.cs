@@ -1,5 +1,5 @@
 ﻿
-namespace CT239_NienLuan_QLBH
+namespace RetailManagement
 {
     partial class frmLogin
     {
@@ -65,7 +65,7 @@ namespace CT239_NienLuan_QLBH
             // 
             // picLogin
             // 
-            this.picLogin.Image = global::CT239_NienLuan_QLBH.Properties.Resources.user_info_icon;
+            this.picLogin.Image = global::RetailManagement.Properties.Resources.user_info_icon;
             this.picLogin.Location = new System.Drawing.Point(12, 27);
             this.picLogin.Name = "picLogin";
             this.picLogin.Size = new System.Drawing.Size(134, 129);
