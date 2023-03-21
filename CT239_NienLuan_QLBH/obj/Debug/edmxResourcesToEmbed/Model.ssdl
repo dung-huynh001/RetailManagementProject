@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SalesManagementModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="KHACHHANG">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="int" Nullable="false" />
+    <Property Name="Ho" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ten" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="255" />
+    <Property Name="SDT" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="TiLeGiam" Type="int" />
+  </EntityType>
+  <EntityType Name="NHANVIEN">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ho" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ten" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="GioiTinh" Type="bit" Nullable="false" />
+    <Property Name="NgaySinh" Type="date" Nullable="false" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="255" />
+    <Property Name="SDT" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="AnhDaiDien" Type="image" />
+  </EntityType>
+  <EntityType Name="SANPHAM">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenSP" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DonViTinh" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DonGiaBan" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="DonGiaNhap" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="SoLuongNhap" Type="int" Nullable="false" />
+    <Property Name="SoLuongTon" Type="int" />
+    <Property Name="MaLoaiSP" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="SalesManagementModelStoreContainer">
+    <EntitySet Name="KHACHHANG" EntityType="Self.KHACHHANG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NHANVIEN" EntityType="Self.NHANVIEN" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SANPHAM" EntityType="Self.SANPHAM" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

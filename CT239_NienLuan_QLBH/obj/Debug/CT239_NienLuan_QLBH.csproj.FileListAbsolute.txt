@@ -1,0 +1,50 @@
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\bin\Debug\CT239_NienLuan_QLBH.exe.config
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\bin\Debug\CT239_NienLuan_QLBH.exe
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\bin\Debug\CT239_NienLuan_QLBH.pdb
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.Properties.Resources.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.exe
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.pdb
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmLogin.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmInfoCustomer.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmInfoStaff.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmSignUp.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmInfoPersonal.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmProduct.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmChangePassword.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmTotalRevenue.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmSales.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmIntroduction.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.Example.resources
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\CT239 - Nien Luan Co So Nganh\Demo\CT239_NienLuan_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.csproj.CopyComplete
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\bin\Debug\CT239_NienLuan_QLBH.exe.config
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\bin\Debug\CT239_NienLuan_QLBH.exe
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\bin\Debug\CT239_NienLuan_QLBH.pdb
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\bin\Debug\EntityFramework.dll
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\bin\Debug\EntityFramework.SqlServer.dll
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\bin\Debug\EntityFramework.xml
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\bin\Debug\EntityFramework.SqlServer.xml
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.csproj.AssemblyReference.cache
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.Example.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmChangePassword.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmIntroduction.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmSales.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmInfoCustomer.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmInfoPersonal.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmProduct.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmInfoStaff.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmLogin.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmSignUp.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.frmTotalRevenue.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.Properties.Resources.resources
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.csproj.GenerateResource.cache
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.csproj.CoreCompileInputs.cache
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.csproj.CopyComplete
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.exe
+D:\Courses\CT239 - Niên Luận Cơ Sở Ngành\Mã nguồn chương trình\CT239_NienLuanCoSoNganhKTPM_QLBH\CT239_NienLuan_QLBH\obj\Debug\CT239_NienLuan_QLBH.pdb
